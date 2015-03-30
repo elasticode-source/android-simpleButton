@@ -20,7 +20,8 @@ protected void onCreate(Bundle savedInstanceState) {
   super.onCreate(savedInstanceState);
   ElastiCode.devModeWithLogging();
   ElastiCode.startSession("YOUR_ELASTICODE_KEY", context)
-}```
+}
+```
 
 ## Motivation
 
